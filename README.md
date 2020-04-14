@@ -8,11 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-I used python 3.7.3 but pretty much any python version will work, you would also need to have virtualenv installed. 
-
-```
 python 3.7.3 [I think any python version might work fine]
-```
 
 ### Installing
 
